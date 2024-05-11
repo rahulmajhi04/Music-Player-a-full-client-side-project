@@ -1,0 +1,1 @@
+This project is a full client-side web application that replicates some of the features and functionalities of the popular music platform Spotify. It allows users to search for tracks, create playlists, and play music directly in the browser.
